@@ -1,0 +1,29 @@
+body {
+    
+    color: green;
+    font-family: 'Droid Sans Mono', monospace;
+    text-align: center;
+	color: #fff;
+    background: #000;
+}
+
+#seconds,
+#tens {
+    font-size: 100px;
+}
+
+b {
+    font-size: 100px;
+}
+
+button {
+    background: green;
+    cursor: pointer;
+    font-size: 1.2em;
+    padding: 18px 10px;
+    width: 180px;
+    margin: 10px;
+}
+
+
+
